@@ -2,7 +2,7 @@
 
 The PSD eSES Upload Tool is a Microsoft Access database developed to submit service entry sheets to the Ariba Supplier Network.
 
-![PSD eSES Upload Tool Screenshot](https://github.com/psdconsultants/eses-upload-tool/blob/master/docmuentation/PSD%20Tool%20Screenshot.jpg)
+![PSD eSES Upload Tool Screenshot](http://www.psdconsultants.com/sites/default/files/PSD%20Tool%20Screenshot.jpg)
 
 ## Requirements ##
 
